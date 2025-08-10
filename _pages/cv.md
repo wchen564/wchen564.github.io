@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, The Chinese University of HongKong, 2029 (expected)
+* M.S. in Applied Mathematics, Cambridge University, 2025
+* B.S. in Actuarial Science, Western University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * HongKong University
+  * Supervisor: Professor Quliang Qiong
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Assistant
+  * Western University
+  * Supervisor: Professor Bravo Roman
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Western University
+  * Supervisor: Professor Serge Provost
   
 Skills
 ======
