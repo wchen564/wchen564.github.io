@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2023: Research Assistant
   * Western University
-  * Supervisor: Professor Bravo Roman
+  * Supervisor: Professor Cristián Bravo Roman
 
 * Summer 2022: Research Assistant
   * Western University
