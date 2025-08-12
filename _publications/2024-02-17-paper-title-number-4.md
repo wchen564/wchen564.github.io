@@ -3,7 +3,7 @@ title: "A New Federated Learning Framework Against Gradient Inversion Attacks"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about improving privacy-preserving capability of Federated Learning.'
 date: 2024-02-17
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 paperurl: 'https://arxiv.org/abs/2412.07187'
